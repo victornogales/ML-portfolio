@@ -12,6 +12,13 @@ Classic machine learning algorithms implemented from scratch, mostly in Python w
 | [Gaussian-Model](Gaussian-Model) | Anomaly detection with a Gaussian model | Python |
 | [Collaborative-Filtering](Collaborative-Filtering) | Movie recommendations with collaborative filtering | Python |
 
+## Other projects
+
+| Folder | What it covers | Language |
+|---|---|---|
+| [Decode-Message](Decode-Message) | Reads an encoded message from a text file and decodes it | C++ |
+| [KCC.com](KCC.com) | A small static website | HTML |
+
 Each folder was originally its own repository and keeps its commit history.
 
 ## Running
